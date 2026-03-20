@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2026 AP UC Course — Participant Handbook</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; background: #f5f7fa; color: #2c3e50; line-height: 1.6; }
+  .container { max-width: 720px; margin: 0 auto; padding: 16px; }
+  .hero { background: linear-gradient(135deg, #1a3a5c 0%, #2980b9 100%); color: #fff; padding: 28px 20px; border-radius: 12px; text-align: center; margin-bottom: 20px; }
+  .hero h1 { font-size: 1.3em; font-weight: 700; margin-bottom: 4px; }
+  .hero p { font-size: 0.9em; opacity: 0.9; }
+  .card { background: #fff; border-radius: 10px; padding: 18px; margin-bottom: 14px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+  .card h2 { font-size: 1.05em; color: #1a3a5c; border-bottom: 2px solid #2980b9; padding-bottom: 6px; margin-bottom: 12px; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.85em; margin: 8px 0; }
+  th { background: #1a3a5c; color: #fff; padding: 8px 6px; text-align: left; font-size: 0.82em; }
+  td { padding: 7px 6px; border-bottom: 1px solid #e8ecf1; vertical-align: top; }
+  tr:nth-child(even) { background: #f8f9fb; }
+  .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.78em; font-weight: 600; margin-right: 4px; }
+  .tag-lecture { background: #dbeafe; color: #1e40af; }
+  .tag-exercise { background: #fef3c7; color: #92400e; }
+  .tag-break { background: #e5e7eb; color: #4b5563; }
+  .tag-event { background: #fce7f3; color: #9d174d; }
+  .tag-fac { background: #ede9fe; color: #5b21b6; }
+  .tag-app { background: #ecfdf5; color: #065f46; }
+  .info-row { display: flex; gap: 8px; margin-bottom: 8px; align-items: flex-start; }
+  .info-icon { font-size: 1.2em; min-width: 28px; text-align: center; }
+  .info-text { font-size: 0.88em; }
+  .info-text strong { color: #1a3a5c; }
+  .alert { background: #fef2f2; border-left: 4px solid #ef4444; padding: 10px 14px; border-radius: 6px; margin: 10px 0; font-size: 0.88em; }
+  .success { background: #f0fdf4; border-left: 4px solid #22c55e; padding: 10px 14px; border-radius: 6px; margin: 10px 0; font-size: 0.88em; }
+  .footer { text-align: center; padding: 20px; font-size: 0.8em; color: #94a3b8; }
+  details summary { list-style: none; cursor: pointer; }
+  details summary::-webkit-details-marker { display: none; }
+  details summary::before { content: '▸ '; color: #2980b9; font-weight: bold; }
+  details[open] summary::before { content: '▾ '; }
+  .session-time { color: #6b7280; font-size: 0.82em; white-space: nowrap; min-width: 90px; }
+  .session-title { font-weight: 600; }
+  .facilitator { color: #6366f1; font-size: 0.8em; }
+  .country-flag { font-size: 1.1em; margin-right: 2px; }
+  .participant-table td:first-child { text-align: center; width: 30px; }
+</style>
+</head>
+<body>
+<div class="container">
+
+<div class="hero">
+  <h1>Asia-Pacific USAR Coordination Course</h1>
+  <p>23–27 March 2026 · Busan, Republic of Korea</p>
+  <p style="font-size:0.8em; margin-top:6px;">Hosted by Korea National Fire Agency (KNFA) & KOICA<br>Endorsed by UN OCHA / INSARAG</p>
+</div>
+
+<!-- VENUE INFO -->
+<div class="card">
+  <h2>📍 Venue & Logistics</h2>
+  <div class="info-row"><span class="info-icon">🏨</span><div class="info-text"><strong>Commodore Hotel Busan</strong><br>151, Jungu-ro, Jung-gu, Busan, Korea</div></div>
+  <div class="info-row"><span class="info-icon">🏫</span><div class="info-text"><strong>Main Lecture Hall:</strong> Heerakjeong Hall 1 (2F)<br><strong>Group Exercise:</strong> Exercise Rooms (3F, 4 rooms)</div></div>
+  <div class="info-row"><span class="info-icon">📶</span><div class="info-text"><strong>WiFi:</strong> Hotel WiFi or exercise room WiFi available</div></div>
+  <div class="info-row"><span class="info-icon">💻</span><div class="info-text"><strong>Bring:</strong> Personal laptop & USB drive daily</div></div>
+  <div class="info-row"><span class="info-icon">👕</span><div class="info-text"><strong>Dress Code:</strong> Smart casual / UC Course T-shirt<br>Welcome & Faculty Dinner: Smart casual</div></div>
+</div>
+
+<!-- DAILY SCHEDULE -->
+<div class="card">
+  <h2>📅 Course Schedule</h2>
+  <p style="font-size:0.85em; color:#6b7280; margin-bottom:12px;">Tap each day to expand details. Coffee breaks at ~10:00 and ~14:30 daily.</p>
+
+  <details>
+    <summary><strong>Day 1 — Monday, 23 March</strong> <span class="tag tag-lecture">Foundation</span></summary>
+    <table>
+      <tr><td class="session-time">09:00–09:30</td><td><span class="session-title">Registration & Opening Remarks</span><br>Group Photo · <span class="facilitator">All</span></td></tr>
+      <tr><td class="session-time">09:30–10:00</td><td><span class="session-title">S1: Introductions & Course Admin</span><br><span class="facilitator">Seong</span></td></tr>
+      <tr><td class="session-time">10:00–10:15</td><td><span class="tag tag-break">COFFEE BREAK</span></td></tr>
+      <tr><td class="session-time">10:15–11:00</td><td><span class="session-title">S2: Course Content Preview</span><br><span class="facilitator">Seong</span></td></tr>
+      <tr><td class="session-time">11:00–12:00</td><td><span class="session-title">S3: Humanitarian Overview</span><br>UN response structure, OCHA role · <span class="facilitator">Tim</span></td></tr>
+      <tr><td class="session-time">12:00–13:30</td><td><span class="tag tag-break">LUNCH & Field Trip</span></td></tr>
+      <tr><td class="session-time">13:30–14:30</td><td><span class="session-title">S4: GDACS & VOSOCC, ICMS</span><br>A disaster has happened somewhere in Busan! · <span class="facilitator">Andrew</span></td></tr>
+      <tr><td class="session-time">14:30–14:45</td><td><span class="tag tag-break">COFFEE BREAK</span></td></tr>
+      <tr><td class="session-time">14:45–15:30</td><td><span class="session-title">S5: USAR Coordination Overview</span><br>New INSARAG methodology · <span class="facilitator">Kai</span></td></tr>
+      <tr><td class="session-time">15:30–16:00</td><td><span class="session-title">S6: Day 1 Review</span> · <span class="facilitator">All</span></td></tr>
+      <tr><td class="session-time">18:00~</td><td><span class="tag tag-event">Welcome Dinner</span> 15F Oryukdo Hall · Hosted by KNFA · Smart Casual</td></tr>
+    </table>
+  </details>
+
+  <details>
+    <summary><strong>Day 2 — Tuesday, 24 March</strong> <span class="tag tag-exercise">RDC Focus</span></summary>
+    <table>
+      <tr><td class="session-time">08:45–09:00</td><td>Warm-up · <span class="facilitator">All</span></td></tr>
+      <tr><td class="session-time">09:00–09:45</td><td><span class="session-title">S7: Response Phase — You have landed in the disaster zone</span><br>Brainstorm initial actions, update VO/ICMS · <span class="facilitator">Andrew</span></td></tr>
+      <tr><td class="session-time">09:45–10:00</td><td><span class="tag tag-break">COFFEE BREAK</span></td></tr>
+      <tr><td class="session-time">10:00–12:00</td><td><span class="session-title">S8: Establish RDC — VO/ICMS Updates</span><br>Airport Manager meeting activity · <span class="facilitator">Tim + All (role players)</span></td></tr>
+      <tr><td class="session-time">12:00–13:00</td><td><span class="tag tag-break">LUNCH</span></td></tr>
+      <tr><td class="session-time">13:00–14:30</td><td><span class="session-title">S9: Ideal RDC Discussion</span><br>3-zone system, RDC kit · <span class="facilitator">Kai</span></td></tr>
+      <tr><td class="session-time">14:30–14:45</td><td><span class="tag tag-break">COFFEE BREAK</span></td></tr>
+      <tr><td class="session-time">14:45–16:15</td><td><span class="session-title">S10: Establishing RDC</span><br>Split into 4 groups, perform initial RDC tasks · <span class="facilitator">All</span></td></tr>
+      <tr><td class="session-time">16:15–16:30</td><td><span class="session-title">S11: Day 2 Review</span> · <span class="facilitator">All</span></td></tr>
+    </table>
+  </details>
+
+  <details>
+    <summary><strong>Day 3 — Wednesday, 25 March</strong> <span class="tag tag-exercise">RDC → UCC Transition</span></summary>
+    <table>
+      <tr><td class="session-time">08:45–09:00</td><td>Warm-up · <span class="facilitator">All</span></td></tr>
+      <tr><td class="session-time">09:00–10:00</td><td><span class="session-title">S12: Practical — Update info, prepare briefing, register USAR teams</span><br><span class="facilitator">All</span></td></tr>
+      <tr><td class="session-time">10:00–10:15</td><td><span class="tag tag-break">COFFEE BREAK</span></td></tr>
+      <tr><td class="session-time">10:15–12:00</td><td><span class="session-title">S13: Conduct briefing & registration activities</span><br>Manage non-classified teams · <span class="facilitator">All</span></td></tr>
+      <tr><td class="session-time">12:00–13:00</td><td><span class="tag tag-break">LUNCH</span></td></tr>
+      <tr><td class="session-time">13:00–14:00</td><td><span class="session-title">S14: RDC Wrap-up</span><br><span class="facilitator">Andrew</span></td></tr>
+      <tr><td class="session-time">14:00–14:30</td><td><span class="session-title">S15: Meet with Local Authorities — UCC Introduction</span><br>Initial LEMA meeting preparation · <span class="facilitator">Kai</span></td></tr>
+      <tr><td class="session-time">14:30–14:45</td><td><span class="tag tag-break">COFFEE BREAK</span></td></tr>
+      <tr><td class="session-time">14:45–16:15</td><td><span class="session-title">S16: Continue UCC Theory</span><br><span class="facilitator">Tim</span></td></tr>
+      <tr><td class="session-time">16:15–16:30</td><td><span class="session-title">S17: Day 3 Review</span> · <span class="facilitator">All</span></td></tr>
+    </table>
+  </details>
+
+  <details>
+    <summary><strong>Day 4 — Thursday, 26 March</strong> <span class="tag tag-exercise">UCC & Planning</span></summary>
+    <table>
+      <tr><td class="session-time">08:45–09:00</td><td>Warm-up: Establishing UCC functions · <span class="facilitator">All</span></td></tr>
+      <tr><td class="session-time">09:00–10:00</td><td><span class="session-title">S18: UCC Workspace Discussion</span><br>Activity: Set up UCCs · <span class="facilitator">Kai</span></td></tr>
+      <tr><td class="session-time">10:00–10:15</td><td><span class="tag tag-break">COFFEE BREAK</span></td></tr>
+      <tr><td class="session-time">10:15–12:00</td><td><span class="session-title">S19: Set up & Review UCCs</span><br>Update in VO · <span class="facilitator">Andrew</span></td></tr>
+      <tr><td class="session-time">12:00–13:00</td><td><span class="tag tag-break">LUNCH</span></td></tr>
+      <tr><td class="session-time">13:00–14:00</td><td><span class="session-title">S20: Reinforce UCC Functions When Fully Staffed</span><br><span class="facilitator">All</span></td></tr>
+      <tr><td class="session-time">14:00–14:30</td><td><span class="session-title">S21: Analysis & Planning — Assigning Priority</span><br>Including ASR levels · <span class="facilitator">Tim</span></td></tr>
+      <tr><td class="session-time">14:30–14:45</td><td><span class="tag tag-break">COFFEE BREAK</span></td></tr>
+      <tr><td class="session-time">14:45–15:00</td><td><span class="session-title">S22: Reporting & Briefing Schedules</span><br><span class="facilitator">Tim</span></td></tr>
+      <tr><td class="session-time">15:00–16:00</td><td><span class="session-title">S23: Planning Activities — Assign Worksites</span><br>Update VO · <span class="facilitator">Kai</span></td></tr>
+      <tr><td class="session-time">16:00–16:15</td><td><span class="session-title">S24: Day 4 Review</span> · <span class="facilitator">All</span></td></tr>
+      <tr><td class="session-time">18:00~</td><td><span class="tag tag-event">Faculty Dinner</span> Facilitators only · Smart Casual</td></tr>
+    </table>
+  </details>
+
+  <details>
+    <summary><strong>Day 5 — Friday, 27 March</strong> <span class="tag tag-exercise">Operations & Closing</span></summary>
+    <table>
+      <tr><td class="session-time">08:45–09:00</td><td>Warm-up · <span class="facilitator">All</span></td></tr>
+      <tr><td class="session-time">09:00–10:00</td><td><span class="session-title">S25: Ongoing Operations — Meetings & Briefings</span><br>Prepare for LEMA meeting · <span class="facilitator">Kai</span></td></tr>
+      <tr><td class="session-time">10:00–10:15</td><td><span class="tag tag-break">COFFEE BREAK</span></td></tr>
+      <tr><td class="session-time">10:15–11:00</td><td><span class="session-title">S26–28: LEMA Meeting · UC Meeting & Briefing</span><br>Sector Coordination, End of rescue phase, Course Review · <span class="facilitator">All</span></td></tr>
+      <tr><td class="session-time">11:00–11:20</td><td><span class="session-title">Course Summary & Final Wrap-up</span> · <span class="facilitator">All</span></td></tr>
+      <tr><td class="session-time">11:30–12:00</td><td><span class="tag tag-event">Closing Ceremony</span><br>Certificate Presentation & Closing Remarks<br>by Director General, Bureau of Fire & Disaster Response<br>※ Dress: Uniform (staff) / Course T-shirt (participants)</td></tr>
+      <tr><td class="session-time">12:00–12:15</td><td><span class="tag tag-event">Group Photo</span><br>All facilitators & participants</td></tr>
+      <tr><td class="session-time">12:15–13:15</td><td><span class="tag tag-event">Official Luncheon</span><br>1F Onsaemiro · Hosted by Director General</td></tr>
+      <tr><td class="session-time">13:15~</td><td>Course ends · Departure support begins</td></tr>
+    </table>
+  </details>
+</div>
+
+<!-- MEALS -->
+<div class="card">
+  <h2>🍽️ Meals</h2>
+  <div class="info-row"><span class="info-icon">☀️</span><div class="info-text"><strong>Lunch:</strong> Provided daily (12:00–13:00) at the 1F Onsaemiro</div></div>
+  <div class="info-row"><span class="info-icon">☕</span><div class="info-text"><strong>Coffee Break:</strong> AM ~10:00 / PM ~14:30 (refreshments provided)</div></div>
+  <div class="info-row"><span class="info-icon">🌙</span><div class="info-text"><strong>Dinner:</strong> Self-arranged, except:<br>• <strong>Day 1 (Mon):</strong> Welcome Dinner, 18:00, 15F Oryukdo Hall — All participants<br>• <strong>Day 4 (Thu):</strong> Faculty Dinner, 18:00 — Facilitators only</div></div>
+  <div class="success">🥬 Vegetarian / dietary requirements have been communicated to the hotel. Please confirm at check-in if you have special needs.</div>
+</div>
+
+<!-- EMERGENCY -->
+<div class="card">
+  <h2>🆘 Emergency Contacts</h2>
+  <table>
+    <tr><th>Service</th><th>Number</th></tr>
+    <tr><td>Fire / Ambulance</td><td><strong>119</strong></td></tr>
+    <tr><td>Police</td><td><strong>112</strong></td></tr>
+    <tr><td>Hotel Front Desk</td><td><strong>051-461-9731~3</strong></td></tr>
+    <tr><td>Course Staff<br><span style="color:#6b7280">Yoonsoo CHUNG</span></td><td><strong>+82-10-7447-5456</strong></td></tr>
+    <tr><td>Head Facilitator<br><span style="color:#6b7280">LOH Seong Lai</span></td><td><strong>+82-10-4855-5167</strong></td></tr>
+  </table>
+  <div class="alert">🏥 <strong>Nearest Hospital:</strong> Busan Jungang Hospital, approx. 5 min by car from hotel.</div>
+</div>
+
+<!-- FACILITATORS -->
+<div class="card">
+  <h2>👨‍🏫 Facilitators</h2>
+  <table>
+    <tr><th>Name</th><th>Country</th><th>Organization</th></tr>
+    <tr><td><strong>Tim BURCHMANN</strong></td><td><span class="country-flag">🇦🇺</span> Australia</td><td>Queensland Fire & Rescue</td></tr>
+    <tr><td><strong>Andrew SHURETY</strong></td><td><span class="country-flag">🇦🇺</span> Australia</td><td>NSW Fire & Rescue</td></tr>
+    <tr><td><strong>Ying Kai FOO</strong></td><td><span class="country-flag">🇸🇬</span> Singapore</td><td>Singapore Civil Defence Force</td></tr>
+    <tr><td><strong>Seong Lai LOH</strong></td><td><span class="country-flag">🇰🇷</span> Korea</td><td>Korea National Fire Agency</td></tr>
+  </table>
+</div>
+
+<!-- PARTICIPANTS -->
+<div class="card">
+  <h2>🌏 Participants</h2>
+  <p style="font-size:0.85em; color:#6b7280; margin-bottom:10px;">21 participants from 10 countries</p>
+  <table class="participant-table">
+    <tr><th>#</th><th>Name</th><th>Country</th><th>Organization</th></tr>
+    <tr><td>1</td><td>Yoonsoo CHUNG</td><td><span class="country-flag">🇰🇷</span> Korea</td><td>KNFA (Rescue Division)</td></tr>
+    <tr><td>2</td><td>Minsoo RYU</td><td><span class="country-flag">🇰🇷</span> Korea</td><td>KNFA (Incheon)</td></tr>
+    <tr><td>3</td><td>Jiho YOUM</td><td><span class="country-flag">🇰🇷</span> Korea</td><td>KNFA (Seoul)</td></tr>
+    <tr><td>4</td><td>Haeri PARK</td><td><span class="country-flag">🇰🇷</span> Korea</td><td>KNFA (Gyeongnam)</td></tr>
+    <tr><td>5</td><td>Sooho CHANG</td><td><span class="country-flag">🇰🇷</span> Korea</td><td>KNFA (Gyeonggi)</td></tr>
+    <tr><td>6</td><td>Munseok LEE</td><td><span class="country-flag">🇰🇷</span> Korea</td><td>KNFA (Intl. Cooperation)</td></tr>
+    <tr><td>7</td><td>Hyeonwoo KIM</td><td><span class="country-flag">🇰🇷</span> Korea</td><td>KNFA (Gyeonggi)</td></tr>
+    <tr><td>8</td><td>Kenya NAOI</td><td><span class="country-flag">🇯🇵</span> Japan</td><td>JICA</td></tr>
+    <tr><td>9</td><td>Eriko SAKAMAKI</td><td><span class="country-flag">🇯🇵</span> Japan</td><td>JICA</td></tr>
+    <tr><td>10</td><td>AJITH R</td><td><span class="country-flag">🇮🇳</span> India</td><td>NDRF</td></tr>
+    <tr><td>11</td><td>Kuber Singh SHARMA</td><td><span class="country-flag">🇮🇳</span> India</td><td>NDRF</td></tr>
+    <tr><td>12</td><td>Flaveanus BERNARD</td><td><span class="country-flag">🇲🇾</span> Malaysia</td><td>SMART / NADMA</td></tr>
+    <tr><td>13</td><td>Abdul Manaf BIN CHE ISA</td><td><span class="country-flag">🇲🇾</span> Malaysia</td><td>SMART / NADMA</td></tr>
+    <tr><td>14</td><td>Abraham NASAK</td><td><span class="country-flag">🇻🇺</span> Vanuatu</td><td>NDMO</td></tr>
+    <tr><td>15</td><td>Alexis NOCOS</td><td><span class="country-flag">🇵🇭</span> Philippines</td><td>Philippine Army</td></tr>
+    <tr><td>16</td><td>Lukasz CZEMARMAZOWICZ</td><td><span class="country-flag">🇵🇱</span> Poland</td><td>State Fire Service</td></tr>
+    <tr><td>17</td><td>Wun CHAN</td><td><span class="country-flag">🇨🇳</span> China</td><td>Shenzhen RVF</td></tr>
+    <tr><td>18</td><td>Chuanqi YANG</td><td><span class="country-flag">🇨🇳</span> China</td><td>Shenzhen RVF</td></tr>
+    <tr><td>19</td><td>Xinxin HE</td><td><span class="country-flag">🇨🇳</span> China</td><td>Shenzhen RVF</td></tr>
+    <tr><td>20</td><td>P.M.A. Hafiy bin P. ZAINAL</td><td><span class="country-flag">🇧🇳</span> Brunei</td><td>NDMC</td></tr>
+    <tr><td>21</td><td>Abdul Mu'ein bin ADI MARHAIN</td><td><span class="country-flag">🇧🇳</span> Brunei</td><td>NDMC</td></tr>
+  </table>
+</div>
+
+<!-- KEY TERMS -->
+<div class="card">
+  <h2>📖 Key Terms</h2>
+  <table>
+    <tr><th>Abbreviation</th><th>Full Term</th></tr>
+    <tr><td><strong>UC</strong></td><td>USAR Coordination</td></tr>
+    <tr><td><strong>USAR</strong></td><td>Urban Search and Rescue</td></tr>
+    <tr><td><strong>INSARAG</strong></td><td>International Search and Rescue Advisory Group</td></tr>
+    <tr><td><strong>OCHA</strong></td><td>Office for the Coordination of Humanitarian Affairs</td></tr>
+    <tr><td><strong>RDC</strong></td><td>Reception / Departure Centre</td></tr>
+    <tr><td><strong>UCC</strong></td><td>USAR Coordination Cell</td></tr>
+    <tr><td><strong>SCC</strong></td><td>Sector Coordination Cell</td></tr>
+    <tr><td><strong>LEMA</strong></td><td>Local Emergency Management Authority</td></tr>
+    <tr><td><strong>GDACS</strong></td><td>Global Disaster Alerting Coordination System</td></tr>
+    <tr><td><strong>VOSOCC</strong></td><td>Virtual On-Site Operations Coordination Centre</td></tr>
+    <tr><td><strong>ICMS</strong></td><td>INSARAG Coordination Management System</td></tr>
+    <tr><td><strong>ASR</strong></td><td>Assessment, Search & Rescue (levels)</td></tr>
+    <tr><td><strong>KNFA</strong></td><td>Korea National Fire Agency</td></tr>
+    <tr><td><strong>KOICA</strong></td><td>Korea International Cooperation Agency</td></tr>
+  </table>
+</div>
+
+<div class="footer">
+  <p>INSARAG · Korea National Fire Agency · KOICA</p>
+  <p>© 2026 Asia-Pacific USAR Coordination Course, Busan</p>
+</div>
+
+</div>
+</body>
+</html>
